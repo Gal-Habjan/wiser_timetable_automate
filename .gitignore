@@ -1,0 +1,32 @@
+# Environment variables
+.env
+
+# Firebase service account
+serviceAccountKey.json
+privateKey.json
+
+# Downloaded files
+timetable.ics
+school.json
+schoolFiltered.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Docker
+downloads/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

@@ -1,0 +1,618 @@
+/bin/sh: 1: /app/cron_job.sh: Permission denied
+/bin/sh: 1: /app/cron_job.sh: Permission denied
+Launching browser...
+Navigated to https://www.wise-tt.com/wtt_um_feri/index.jsp?filterId=0;389,569;0;0;
+Clicked on iCal export link
+Waiting for download to start...
+Downloaded iCal file to timetable.ics
+============================================================
+Step 1: Downloading timetable from Wise-TT...
+============================================================
+Launching browser...
+Navigated to https://www.wise-tt.com/wtt_um_feri/index.jsp?filterId=0;389,569;0;0;
+Clicked on iCal export link
+Waiting for download to start...
+Downloaded iCal file to timetable.ics
+
+============================================================
+Step 2: Converting ICS to JSON...
+============================================================
+Converted 460 events from timetable.ics to school.json
+
+============================================================
+Step 3: Uploading to Firebase...
+============================================================
+============================================================
+Initializing Firebase connection...
+============================================================
+✓ Authenticated using service account: privateKey.json
+
+Reading data from school.json...
+✓ Loaded 460 classes
+✓ New data hash: dc28be0569b16b715e3a567324c70fb4b60bfff78280bf9ad7a502380d85b1da
+
+Checking for changes...
+
+============================================================
+⏭️  No changes detected - Hash is the same
+   Current hash: dc28be0569b16b715e3a567324c70fb4b60bfff78280bf9ad7a502380d85b1da
+   Skipping upload to Firebase
+============================================================
+
+============================================================
+✓ Process completed successfully!
+✓ ICS file saved to: timetable.ics
+✓ JSON file saved to: school.json
+============================================================
+Launching browser...
+Navigated to https://www.wise-tt.com/wtt_um_feri/index.jsp?filterId=0;254;0;0;
+Clicked on iCal export link
+Waiting for download to start...
+Downloaded iCal file to timetable.ics
+============================================================
+Step 1: Downloading timetable from Wise-TT...
+============================================================
+Launching browser...
+Navigated to https://www.wise-tt.com/wtt_um_feri/index.jsp?filterId=0;254;0;0;
+Clicked on iCal export link
+Waiting for download to start...
+Downloaded iCal file to timetable.ics
+
+============================================================
+Step 2: Converting ICS to JSON...
+============================================================
+Converted 189 events from timetable.ics to school.json
+
+============================================================
+Step 3: Uploading to Firebase...
+============================================================
+============================================================
+Initializing Firebase connection...
+============================================================
+✓ Authenticated using service account: privateKey.json
+
+Reading data from school.json...
+✓ Loaded 189 classes
+✓ New data hash: 443694d3719113c61bd3aabef2aa5e64c451315438db2feebda274018bdcd019
+
+Checking for changes...
+
+============================================================
+⏭️  No changes detected - Hash is the same
+   Current hash: 443694d3719113c61bd3aabef2aa5e64c451315438db2feebda274018bdcd019
+   Skipping upload to Firebase
+============================================================
+
+============================================================
+✓ Process completed successfully!
+✓ ICS file saved to: timetable.ics
+✓ JSON file saved to: school.json
+============================================================
+Launching browser...
+Navigated to https://www.wise-tt.com/wtt_um_feri/index.jsp?filterId=0;254;0;0;
+Clicked on iCal export link
+Waiting for download to start...
+Downloaded iCal file to timetable.ics
+============================================================
+Step 1: Downloading timetable from Wise-TT...
+============================================================
+Launching browser...
+Navigated to https://www.wise-tt.com/wtt_um_feri/index.jsp?filterId=0;254;0;0;
+Clicked on iCal export link
+Waiting for download to start...
+Downloaded iCal file to timetable.ics
+
+============================================================
+Step 2: Converting ICS to JSON...
+============================================================
+Converted 189 events from timetable.ics to school.json
+
+============================================================
+Step 3: Uploading to Firebase...
+============================================================
+============================================================
+Initializing Firebase connection...
+============================================================
+✓ Authenticated using service account: privateKey.json
+
+Reading data from school.json...
+✓ Loaded 189 classes
+✓ New data hash: 443694d3719113c61bd3aabef2aa5e64c451315438db2feebda274018bdcd019
+
+Checking for changes...
+
+============================================================
+⏭️  No changes detected - Hash is the same
+   Current hash: 443694d3719113c61bd3aabef2aa5e64c451315438db2feebda274018bdcd019
+   Skipping upload to Firebase
+============================================================
+
+============================================================
+✓ Process completed successfully!
+✓ ICS file saved to: timetable.ics
+✓ JSON file saved to: school.json
+============================================================
+Launching browser...
+Navigated to https://www.wise-tt.com/wtt_um_feri/index.jsp?filterId=0;254;0;0;
+Clicked on iCal export link
+Waiting for download to start...
+Downloaded iCal file to timetable.ics
+============================================================
+Step 1: Downloading timetable from Wise-TT...
+============================================================
+Launching browser...
+Navigated to https://www.wise-tt.com/wtt_um_feri/index.jsp?filterId=0;254;0;0;
+Clicked on iCal export link
+Waiting for download to start...
+Downloaded iCal file to timetable.ics
+
+============================================================
+Step 2: Converting ICS to JSON...
+============================================================
+Converted 189 events from timetable.ics to school.json
+
+============================================================
+Step 3: Uploading to Firebase...
+============================================================
+============================================================
+Initializing Firebase connection...
+============================================================
+✓ Authenticated using service account: privateKey.json
+
+Reading data from school.json...
+✓ Loaded 189 classes
+✓ New data hash: 443694d3719113c61bd3aabef2aa5e64c451315438db2feebda274018bdcd019
+
+Checking for changes...
+
+============================================================
+⏭️  No changes detected - Hash is the same
+   Current hash: 443694d3719113c61bd3aabef2aa5e64c451315438db2feebda274018bdcd019
+   Skipping upload to Firebase
+============================================================
+
+============================================================
+✓ Process completed successfully!
+✓ ICS file saved to: timetable.ics
+✓ JSON file saved to: school.json
+============================================================
+Launching browser...
+Navigated to https://www.wise-tt.com/wtt_um_feri/index.jsp?filterId=0;254;0;0;
+Clicked on iCal export link
+Waiting for download to start...
+Downloaded iCal file to timetable.ics
+============================================================
+Step 1: Downloading timetable from Wise-TT...
+============================================================
+Launching browser...
+Navigated to https://www.wise-tt.com/wtt_um_feri/index.jsp?filterId=0;254;0;0;
+Clicked on iCal export link
+Waiting for download to start...
+Downloaded iCal file to timetable.ics
+
+============================================================
+Step 2: Converting ICS to JSON...
+============================================================
+Converted 189 events from timetable.ics to school.json
+
+============================================================
+Step 3: Uploading to Firebase...
+============================================================
+============================================================
+Initializing Firebase connection...
+============================================================
+✓ Authenticated using service account: privateKey.json
+
+Reading data from school.json...
+✓ Loaded 189 classes
+✓ New data hash: 443694d3719113c61bd3aabef2aa5e64c451315438db2feebda274018bdcd019
+
+Checking for changes...
+
+============================================================
+⏭️  No changes detected - Hash is the same
+   Current hash: 443694d3719113c61bd3aabef2aa5e64c451315438db2feebda274018bdcd019
+   Skipping upload to Firebase
+============================================================
+
+============================================================
+✓ Process completed successfully!
+✓ ICS file saved to: timetable.ics
+✓ JSON file saved to: school.json
+============================================================
+Launching browser...
+Navigated to https://www.wise-tt.com/wtt_um_feri/index.jsp?filterId=0;254;0;0;
+Clicked on iCal export link
+Waiting for download to start...
+Downloaded iCal file to timetable.ics
+============================================================
+Step 1: Downloading timetable from Wise-TT...
+============================================================
+Launching browser...
+Navigated to https://www.wise-tt.com/wtt_um_feri/index.jsp?filterId=0;254;0;0;
+Clicked on iCal export link
+Waiting for download to start...
+Downloaded iCal file to timetable.ics
+
+============================================================
+Step 2: Converting ICS to JSON...
+============================================================
+Converted 189 events from timetable.ics to school.json
+
+============================================================
+Step 3: Uploading to Firebase...
+============================================================
+============================================================
+Initializing Firebase connection...
+============================================================
+✓ Authenticated using service account: privateKey.json
+
+Reading data from school.json...
+✓ Loaded 189 classes
+✓ New data hash: 443694d3719113c61bd3aabef2aa5e64c451315438db2feebda274018bdcd019
+
+Checking for changes...
+
+============================================================
+⏭️  No changes detected - Hash is the same
+   Current hash: 443694d3719113c61bd3aabef2aa5e64c451315438db2feebda274018bdcd019
+   Skipping upload to Firebase
+============================================================
+
+============================================================
+✓ Process completed successfully!
+✓ ICS file saved to: timetable.ics
+✓ JSON file saved to: school.json
+============================================================
+Launching browser...
+Navigated to https://www.wise-tt.com/wtt_um_feri/index.jsp?filterId=0;254;0;0;
+Clicked on iCal export link
+Waiting for download to start...
+Downloaded iCal file to timetable.ics
+============================================================
+Step 1: Downloading timetable from Wise-TT...
+============================================================
+Launching browser...
+Navigated to https://www.wise-tt.com/wtt_um_feri/index.jsp?filterId=0;254;0;0;
+Clicked on iCal export link
+Waiting for download to start...
+Downloaded iCal file to timetable.ics
+
+============================================================
+Step 2: Converting ICS to JSON...
+============================================================
+Converted 189 events from timetable.ics to school.json
+
+============================================================
+Step 3: Uploading to Firebase...
+============================================================
+============================================================
+Initializing Firebase connection...
+============================================================
+✓ Authenticated using service account: privateKey.json
+
+Reading data from school.json...
+✓ Loaded 189 classes
+✓ New data hash: 443694d3719113c61bd3aabef2aa5e64c451315438db2feebda274018bdcd019
+
+Checking for changes...
+
+============================================================
+⏭️  No changes detected - Hash is the same
+   Current hash: 443694d3719113c61bd3aabef2aa5e64c451315438db2feebda274018bdcd019
+   Skipping upload to Firebase
+============================================================
+
+============================================================
+✓ Process completed successfully!
+✓ ICS file saved to: timetable.ics
+✓ JSON file saved to: school.json
+============================================================
+Launching browser...
+Navigated to https://www.wise-tt.com/wtt_um_feri/index.jsp?filterId=0;254;0;0;
+Clicked on iCal export link
+Waiting for download to start...
+Downloaded iCal file to timetable.ics
+============================================================
+Step 1: Downloading timetable from Wise-TT...
+============================================================
+Launching browser...
+Navigated to https://www.wise-tt.com/wtt_um_feri/index.jsp?filterId=0;254;0;0;
+Clicked on iCal export link
+Waiting for download to start...
+Downloaded iCal file to timetable.ics
+
+============================================================
+Step 2: Converting ICS to JSON...
+============================================================
+Converted 189 events from timetable.ics to school.json
+
+============================================================
+Step 3: Uploading to Firebase...
+============================================================
+============================================================
+Initializing Firebase connection...
+============================================================
+✓ Authenticated using service account: privateKey.json
+
+Reading data from school.json...
+✓ Loaded 189 classes
+✓ New data hash: 443694d3719113c61bd3aabef2aa5e64c451315438db2feebda274018bdcd019
+
+Checking for changes...
+
+============================================================
+⏭️  No changes detected - Hash is the same
+   Current hash: 443694d3719113c61bd3aabef2aa5e64c451315438db2feebda274018bdcd019
+   Skipping upload to Firebase
+============================================================
+
+============================================================
+✓ Process completed successfully!
+✓ ICS file saved to: timetable.ics
+✓ JSON file saved to: school.json
+============================================================
+Launching browser...
+Navigated to https://www.wise-tt.com/wtt_um_feri/index.jsp?filterId=0;254;0;0;
+Clicked on iCal export link
+Waiting for download to start...
+Downloaded iCal file to timetable.ics
+============================================================
+Step 1: Downloading timetable from Wise-TT...
+============================================================
+Launching browser...
+Navigated to https://www.wise-tt.com/wtt_um_feri/index.jsp?filterId=0;254;0;0;
+Clicked on iCal export link
+Waiting for download to start...
+Downloaded iCal file to timetable.ics
+
+============================================================
+Step 2: Converting ICS to JSON...
+============================================================
+Converted 189 events from timetable.ics to school.json
+
+============================================================
+Step 3: Uploading to Firebase...
+============================================================
+============================================================
+Initializing Firebase connection...
+============================================================
+✓ Authenticated using service account: privateKey.json
+
+Reading data from school.json...
+✓ Loaded 189 classes
+✓ New data hash: 443694d3719113c61bd3aabef2aa5e64c451315438db2feebda274018bdcd019
+
+Checking for changes...
+
+============================================================
+⏭️  No changes detected - Hash is the same
+   Current hash: 443694d3719113c61bd3aabef2aa5e64c451315438db2feebda274018bdcd019
+   Skipping upload to Firebase
+============================================================
+
+============================================================
+✓ Process completed successfully!
+✓ ICS file saved to: timetable.ics
+✓ JSON file saved to: school.json
+============================================================
+Launching browser...
+Navigated to https://www.wise-tt.com/wtt_um_feri/index.jsp?filterId=0;254;0;0;
+Clicked on iCal export link
+Waiting for download to start...
+Downloaded iCal file to timetable.ics
+============================================================
+Step 1: Downloading timetable from Wise-TT...
+============================================================
+Launching browser...
+Navigated to https://www.wise-tt.com/wtt_um_feri/index.jsp?filterId=0;254;0;0;
+Clicked on iCal export link
+Waiting for download to start...
+Downloaded iCal file to timetable.ics
+
+============================================================
+Step 2: Converting ICS to JSON...
+============================================================
+Converted 189 events from timetable.ics to school.json
+
+============================================================
+Step 3: Uploading to Firebase...
+============================================================
+============================================================
+Initializing Firebase connection...
+============================================================
+✓ Authenticated using service account: privateKey.json
+
+Reading data from school.json...
+✓ Loaded 189 classes
+✓ New data hash: 443694d3719113c61bd3aabef2aa5e64c451315438db2feebda274018bdcd019
+
+Checking for changes...
+
+============================================================
+⏭️  No changes detected - Hash is the same
+   Current hash: 443694d3719113c61bd3aabef2aa5e64c451315438db2feebda274018bdcd019
+   Skipping upload to Firebase
+============================================================
+
+============================================================
+✓ Process completed successfully!
+✓ ICS file saved to: timetable.ics
+✓ JSON file saved to: school.json
+============================================================
+Launching browser...
+Navigated to https://www.wise-tt.com/wtt_um_feri/index.jsp?filterId=0;254;0;0;
+Clicked on iCal export link
+Waiting for download to start...
+Downloaded iCal file to timetable.ics
+============================================================
+Step 1: Downloading timetable from Wise-TT...
+============================================================
+Launching browser...
+Navigated to https://www.wise-tt.com/wtt_um_feri/index.jsp?filterId=0;254;0;0;
+Clicked on iCal export link
+Waiting for download to start...
+Downloaded iCal file to timetable.ics
+
+============================================================
+Step 2: Converting ICS to JSON...
+============================================================
+Converted 189 events from timetable.ics to school.json
+
+============================================================
+Step 3: Uploading to Firebase...
+============================================================
+============================================================
+Initializing Firebase connection...
+============================================================
+✓ Authenticated using service account: privateKey.json
+
+Reading data from school.json...
+✓ Loaded 189 classes
+✓ New data hash: 443694d3719113c61bd3aabef2aa5e64c451315438db2feebda274018bdcd019
+
+Checking for changes...
+
+============================================================
+⏭️  No changes detected - Hash is the same
+   Current hash: 443694d3719113c61bd3aabef2aa5e64c451315438db2feebda274018bdcd019
+   Skipping upload to Firebase
+============================================================
+
+============================================================
+✓ Process completed successfully!
+✓ ICS file saved to: timetable.ics
+✓ JSON file saved to: school.json
+============================================================
+Launching browser...
+Navigated to https://www.wise-tt.com/wtt_um_feri/index.jsp?filterId=0;254;0;0;
+Clicked on iCal export link
+Waiting for download to start...
+Downloaded iCal file to timetable.ics
+============================================================
+Step 1: Downloading timetable from Wise-TT...
+============================================================
+Launching browser...
+Navigated to https://www.wise-tt.com/wtt_um_feri/index.jsp?filterId=0;254;0;0;
+Clicked on iCal export link
+Waiting for download to start...
+Downloaded iCal file to timetable.ics
+
+============================================================
+Step 2: Converting ICS to JSON...
+============================================================
+Converted 189 events from timetable.ics to school.json
+
+============================================================
+Step 3: Uploading to Firebase...
+============================================================
+============================================================
+Initializing Firebase connection...
+============================================================
+✓ Authenticated using service account: privateKey.json
+
+Reading data from school.json...
+✓ Loaded 189 classes
+✓ New data hash: 443694d3719113c61bd3aabef2aa5e64c451315438db2feebda274018bdcd019
+
+Checking for changes...
+
+============================================================
+⏭️  No changes detected - Hash is the same
+   Current hash: 443694d3719113c61bd3aabef2aa5e64c451315438db2feebda274018bdcd019
+   Skipping upload to Firebase
+============================================================
+
+============================================================
+✓ Process completed successfully!
+✓ ICS file saved to: timetable.ics
+✓ JSON file saved to: school.json
+============================================================
+Launching browser...
+Navigated to https://www.wise-tt.com/wtt_um_feri/index.jsp?filterId=0;254;0;0;
+Clicked on iCal export link
+Waiting for download to start...
+Downloaded iCal file to timetable.ics
+============================================================
+Step 1: Downloading timetable from Wise-TT...
+============================================================
+Launching browser...
+Navigated to https://www.wise-tt.com/wtt_um_feri/index.jsp?filterId=0;254;0;0;
+Clicked on iCal export link
+Waiting for download to start...
+Downloaded iCal file to timetable.ics
+
+============================================================
+Step 2: Converting ICS to JSON...
+============================================================
+Converted 189 events from timetable.ics to school.json
+
+============================================================
+Step 3: Uploading to Firebase...
+============================================================
+============================================================
+Initializing Firebase connection...
+============================================================
+✓ Authenticated using service account: privateKey.json
+
+Reading data from school.json...
+✓ Loaded 189 classes
+✓ New data hash: 443694d3719113c61bd3aabef2aa5e64c451315438db2feebda274018bdcd019
+
+Checking for changes...
+
+============================================================
+⏭️  No changes detected - Hash is the same
+   Current hash: 443694d3719113c61bd3aabef2aa5e64c451315438db2feebda274018bdcd019
+   Skipping upload to Firebase
+============================================================
+
+============================================================
+✓ Process completed successfully!
+✓ ICS file saved to: timetable.ics
+✓ JSON file saved to: school.json
+============================================================
+Launching browser...
+Navigated to https://www.wise-tt.com/wtt_um_feri/index.jsp?filterId=0;254;0;0;
+Clicked on iCal export link
+Waiting for download to start...
+Downloaded iCal file to timetable.ics
+============================================================
+Step 1: Downloading timetable from Wise-TT...
+============================================================
+Launching browser...
+Navigated to https://www.wise-tt.com/wtt_um_feri/index.jsp?filterId=0;254;0;0;
+Clicked on iCal export link
+Waiting for download to start...
+Downloaded iCal file to timetable.ics
+
+============================================================
+Step 2: Converting ICS to JSON...
+============================================================
+Converted 189 events from timetable.ics to school.json
+
+============================================================
+Step 3: Uploading to Firebase...
+============================================================
+============================================================
+Initializing Firebase connection...
+============================================================
+✓ Authenticated using service account: privateKey.json
+
+Reading data from school.json...
+✓ Loaded 189 classes
+✓ New data hash: 443694d3719113c61bd3aabef2aa5e64c451315438db2feebda274018bdcd019
+
+Checking for changes...
+
+============================================================
+⏭️  No changes detected - Hash is the same
+   Current hash: 443694d3719113c61bd3aabef2aa5e64c451315438db2feebda274018bdcd019
+   Skipping upload to Firebase
+============================================================
+
+============================================================
+✓ Process completed successfully!
+✓ ICS file saved to: timetable.ics
+✓ JSON file saved to: school.json
+============================================================

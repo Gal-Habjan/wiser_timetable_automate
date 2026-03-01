@@ -1,0 +1,10 @@
+services:
+    playwright-app:
+        build: .
+        container_name: wise_timetable_automate
+        restart: unless-stopped
+        volumes:
+            - ./:/app
+            - ./downloads:/app/downloads
+        environment:
+            - PYTHONUNBUFFERED=1
