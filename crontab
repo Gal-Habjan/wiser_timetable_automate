@@ -1,4 +1,4 @@
 # Run every minute for testing
-* * * * * cd /app && /usr/bin/python3 /app/main.py >> /app/cron.log 2>&1
+0 6,20 * * * cd /app && /usr/bin/python3 /app/main.py >> /app/cron.log 2>&1
 
 # Empty line required at end of cron file

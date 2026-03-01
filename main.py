@@ -5,9 +5,11 @@ Main script to download timetable from Wise-TT and convert it to JSON
 from test import download_ical
 from icsToJson import parse_ics_to_json
 from uploadToFirebase import upload_to_firebase
+from datetime import datetime
 import os
 
 def main():
+    print(f"Run started at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     # Step 1: Download the .ics file
     print("=" * 60)
     print("Step 1: Downloading timetable from Wise-TT...")
@@ -47,6 +49,7 @@ def main():
     print(f"✓ ICS file saved to: {ics_path}")
     print(f"✓ JSON file saved to: {json_path}")
     print("=" * 60)
+    print(f"Run finished at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 
 if __name__ == '__main__':
     main()

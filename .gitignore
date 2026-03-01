@@ -5,6 +5,9 @@
 serviceAccountKey.json
 privateKey.json
 
+# Logs
+cron.log
+
 # Downloaded files
 timetable.ics
 school.json
