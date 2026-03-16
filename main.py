@@ -17,7 +17,7 @@ def main():
     
     timetable_config = {
         'schoolcode': 'um_feri',
-        'filterId': '0;254;0;0;'
+        'filterId': '0;254,257;0;0;'
     }
     ics_path = 'timetable.ics'
     
