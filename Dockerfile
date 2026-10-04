@@ -18,11 +18,9 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip3 install --no-cache-dir -r requirements.txt
 
-# Install Playwright browsers and system dependencies
-RUN playwright install --with-deps chromium
 
 # Copy the application code
-COPY *.py .
+COPY *.py ./
 
 # Copy .env file if it exists (optional)
 COPY .env* ./

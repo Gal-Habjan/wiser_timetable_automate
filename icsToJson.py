@@ -34,17 +34,23 @@ def parse_ics_to_json(ics_file_path, output_json_path):
             summary = str(component.get('summary', ''))
             description = str(component.get('description', ''))
             location = str(component.get('location', ''))
+            if summary.strip().lower() == 'rezervacija':
+                continue
             dtstart = component.get('dtstart')
             dtend = component.get('dtend')
             
-            # Parse description to extract subject name, type, teacher, and group
-            # Format: "SUBJECT, TYPE, TEACHER, GROUP"
-            parts = [part.strip() for part in description.split(',')]
-            
-            predmet = parts[0] if len(parts) > 0 else summary
-            tip = parts[1] if len(parts) > 1 else ''
-            izvajalec = parts[2] if len(parts) > 2 else ''
-            skupina = parts[3] if len(parts) > 3 else ''
+            # Description lines: "Predavatelji: A, B" / "Skupine: X, Y"
+            izvajalec = ''
+            skupina = ''
+            for line in description.splitlines():
+                label, sep, value = line.partition(':')
+                if not sep:
+                    continue
+                label = label.strip().lower()
+                if label.startswith('predavatelj'):
+                    izvajalec = value.strip()
+                elif label.startswith('skupin'):
+                    skupina = value.strip()
             
             # Extract date and time
             sort_key = ''  # For sorting purposes
@@ -78,9 +84,6 @@ def parse_ics_to_json(ics_file_path, output_json_path):
             # Combine time range
             ura = f"{ura_od}-{ura_do}" if ura_od and ura_do else ''
             
-            # Create opis in format: "TYPE SUBJECT"
-            opis = f"{tip} {predmet}".strip()
-            
             # Create entry matching the required format
             entry = {
                 "Dan": dan,
@@ -89,7 +92,7 @@ def parse_ics_to_json(ics_file_path, output_json_path):
                 "Prostor": location,
                 "Skupina": skupina,
                 "Izvajalec": izvajalec,
-                "Opis": opis,
+                "Opis": summary,
                 "_sort_key": sort_key  # Temporary field for sorting
             }
             
