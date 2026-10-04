@@ -15,13 +15,9 @@ def main():
     print("Step 1: Downloading timetable from Wise-TT...")
     print("=" * 60)
     
-    timetable_config = {
-        'schoolcode': 'um_feri',
-        'filterId': '0;254,257;0;0;'
-    }
     ics_path = 'timetable.ics'
     
-    download_ical(timetable=timetable_config, download_path=ics_path)
+    download_ical(download_path=ics_path)
     
     # Step 2: Convert .ics to JSON
     print("\n" + "=" * 60)
